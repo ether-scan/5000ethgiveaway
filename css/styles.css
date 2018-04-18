@@ -155,13 +155,13 @@ header a {
 
 .txn {
 	background-color: rgb(225,225,225);
-	padding: 0.5em 0;
+	padding: 0.3em 0;
 	text-align: center;
 }
 
 .txn p {
 	margin: 0 auto;
-	font-size: 1.2rem;
+	font-size: 1.1rem;
 	word-wrap: break-word;
 }
 
